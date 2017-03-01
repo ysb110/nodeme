@@ -1,0 +1,26 @@
+{
+  "name": "nodeme",
+  "version": "1.0.0",
+  "author": {
+    "name": "ycq",
+    "email": "ycq@meail.com"
+  },
+  "licence": "AGPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "homepage": "",
+  "keywords": [
+    "ycq"
+  ],
+  "dependencies": {
+    "async": "^2.1.5",
+    "express": "^4.14.1",
+    "lodash": "^4.17.4",
+    "require-all": "^2.2.0"
+  },
+  "scripts": {
+    "start": "node ./bin/www"
+  }
+}
